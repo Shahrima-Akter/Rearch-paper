@@ -44,4 +44,5 @@ AI in healthcare: a six-step framework for getting the most out of your data, Pu
 
 ( Authors last name: Sankar Authors first name: Akshara, Tittle of the article: The Role of AI in Gene Technology, Publicatio time: 19th August, 2020)
 
+# Submitted By: Sharima Akter
 
