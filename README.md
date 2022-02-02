@@ -1,3 +1,9 @@
+![WhatsApp Image 2022-02-03 at 1 45 15 AM](https://user-images.githubusercontent.com/95343968/152225973-6fabf545-c930-4390-8cd6-1995395df0b3.jpeg)
+
+
+
+
+
 # Changing the Healthcare game by AI
 # AI tools and technologies:
 AI was the great invention for human being. Firstly, it become quite challenging about the picture and videos of human organs and muscles or the inner part of human body. Experts in this department have to go though some training to upgrade the AI technology and promised to use the AI tools in medical site. 
